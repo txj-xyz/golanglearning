@@ -7,4 +7,5 @@ use (
 	./4_constants
 	./5_for
 	./6_ifelse
+	./7_switch
 )
