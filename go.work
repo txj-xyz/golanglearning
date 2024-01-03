@@ -1,0 +1,10 @@
+go 1.21.5
+
+use (
+	./1_hello-world
+	./2_values
+	./3_variables
+	./4_constants
+	./5_for
+	./6_ifelse
+)
